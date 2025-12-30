@@ -12,6 +12,7 @@ blood oxygen saturation (SpO2), and body temperature.
 - HC-05 Bluetooth module
 - OLED display
 - APR33A3 voice record module
+   <img width="773" height="532" alt="image" src="https://github.com/user-attachments/assets/95a827a3-f1e7-40da-b638-e32968d23a58" />
 
 ## Features
 - Real-time SpO2, heart rate, and temperature monitoring
@@ -24,5 +25,4 @@ blood oxygen saturation (SpO2), and body temperature.
 - Home healthcare
 - Wearable health monitoring
 
-  <img width="773" height="532" alt="image" src="https://github.com/user-attachments/assets/95a827a3-f1e7-40da-b638-e32968d23a58" />
-  ![Multifunctional diagnostic device](https://github.com/user-attachments/assets/6b7346cd-4a19-41e8-9b22-1d7884d15ba3)
+  <img width="706" height="589" alt="image" src="https://github.com/user-attachments/assets/05b9d00a-ee34-4827-91d2-39a2b61f92d1" />
